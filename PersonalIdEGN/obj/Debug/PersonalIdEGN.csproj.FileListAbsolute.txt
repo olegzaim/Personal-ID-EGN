@@ -1,0 +1,7 @@
+D:\DEV\PersonalIdEGN\PersonalIdEGN\bin\Debug\PersonalIdEGN.exe.config
+D:\DEV\PersonalIdEGN\PersonalIdEGN\bin\Debug\PersonalIdEGN.exe
+D:\DEV\PersonalIdEGN\PersonalIdEGN\bin\Debug\PersonalIdEGN.pdb
+D:\DEV\PersonalIdEGN\PersonalIdEGN\obj\Debug\PersonalIdEGN.csprojResolveAssemblyReference.cache
+D:\DEV\PersonalIdEGN\PersonalIdEGN\obj\Debug\PersonalIdEGN.csproj.CoreCompileInputs.cache
+D:\DEV\PersonalIdEGN\PersonalIdEGN\obj\Debug\PersonalIdEGN.exe
+D:\DEV\PersonalIdEGN\PersonalIdEGN\obj\Debug\PersonalIdEGN.pdb
